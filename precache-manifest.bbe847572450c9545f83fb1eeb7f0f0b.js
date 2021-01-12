@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4e52f3e08feb1571f2e019d627df58b7",
+    "revision": "97a10dedfd01c945544b50519236d4c3",
     "url": "/sabinaschool/index.html"
   },
   {
-    "revision": "745e33110254350f23f2",
-    "url": "/sabinaschool/static/css/main.f66eed1e.chunk.css"
+    "revision": "b3088a0697f5e7c348d9",
+    "url": "/sabinaschool/static/css/main.b814006c.chunk.css"
   },
   {
-    "revision": "305d81d7eeb3b206e745",
-    "url": "/sabinaschool/static/js/2.1dacd0a3.chunk.js"
+    "revision": "0beb8d7f799d2873d737",
+    "url": "/sabinaschool/static/js/2.2f3a3ea2.chunk.js"
   },
   {
     "revision": "ff36efe99bbdc543e19fafd98fdef32c",
-    "url": "/sabinaschool/static/js/2.1dacd0a3.chunk.js.LICENSE.txt"
+    "url": "/sabinaschool/static/js/2.2f3a3ea2.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "745e33110254350f23f2",
-    "url": "/sabinaschool/static/js/main.2168a1eb.chunk.js"
+    "revision": "b3088a0697f5e7c348d9",
+    "url": "/sabinaschool/static/js/main.51069c7a.chunk.js"
   },
   {
     "revision": "fe3e50a89ab0b88a30a0",
@@ -48,6 +48,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/sabinaschool/static/media/6.f0370cf9.jpg"
   },
   {
+    "revision": "e468f9eb949de39829c68b0539c9ef21",
+    "url": "/sabinaschool/static/media/Impressionism.e468f9eb.jpg"
+  },
+  {
     "revision": "f9a44e1ccb9f44cd4de1da8fe7f6f4d8",
     "url": "/sabinaschool/static/media/arrow-left.f9a44e1c.svg"
   },
@@ -70,6 +74,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ef149cf92af0aad5163a436d70a765b2",
     "url": "/sabinaschool/static/media/drums.ef149cf9.jpg"
+  },
+  {
+    "revision": "ba114d4868f46d15df042e2508b7100d",
+    "url": "/sabinaschool/static/media/erik.ba114d48.jpg"
+  },
+  {
+    "revision": "7b8fe857bbf759266fd8fe5da0e9a2d7",
+    "url": "/sabinaschool/static/media/human.7b8fe857.jpg"
   },
   {
     "revision": "f083284da376915c34d105e29d393710",
@@ -150,6 +162,18 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "81fb78ca0bd9a853513a6f807f7f79e0",
     "url": "/sabinaschool/static/media/piano__06.81fb78ca.jpg"
+  },
+  {
+    "revision": "7c6a95205532c39e02aadd49f137e780",
+    "url": "/sabinaschool/static/media/pianokid2.7c6a9520.jpg"
+  },
+  {
+    "revision": "d091eef7b65a9c8368821c53f5ab51b3",
+    "url": "/sabinaschool/static/media/pianomacbook.d091eef7.jpg"
+  },
+  {
+    "revision": "52cd6bbfff8526231d05b8e02cb72a29",
+    "url": "/sabinaschool/static/media/postpiano.52cd6bbf.jpg"
   },
   {
     "revision": "019b32905e39c5c7996dbc81cbcea525",
