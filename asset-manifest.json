@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/sabinaschool/static/css/main.b814006c.chunk.css",
-    "main.js": "/sabinaschool/static/js/main.51069c7a.chunk.js",
-    "main.js.map": "/sabinaschool/static/js/main.51069c7a.chunk.js.map",
+    "main.css": "/sabinaschool/static/css/main.f9277198.chunk.css",
+    "main.js": "/sabinaschool/static/js/main.296a3944.chunk.js",
+    "main.js.map": "/sabinaschool/static/js/main.296a3944.chunk.js.map",
     "runtime-main.js": "/sabinaschool/static/js/runtime-main.bc402ea5.js",
     "runtime-main.js.map": "/sabinaschool/static/js/runtime-main.bc402ea5.js.map",
-    "static/js/2.2f3a3ea2.chunk.js": "/sabinaschool/static/js/2.2f3a3ea2.chunk.js",
-    "static/js/2.2f3a3ea2.chunk.js.map": "/sabinaschool/static/js/2.2f3a3ea2.chunk.js.map",
+    "static/js/2.ae268699.chunk.js": "/sabinaschool/static/js/2.ae268699.chunk.js",
+    "static/js/2.ae268699.chunk.js.map": "/sabinaschool/static/js/2.ae268699.chunk.js.map",
     "index.html": "/sabinaschool/index.html",
-    "precache-manifest.bbe847572450c9545f83fb1eeb7f0f0b.js": "/sabinaschool/precache-manifest.bbe847572450c9545f83fb1eeb7f0f0b.js",
+    "precache-manifest.235f96de896edf4be3e16a15ce493c3b.js": "/sabinaschool/precache-manifest.235f96de896edf4be3e16a15ce493c3b.js",
     "service-worker.js": "/sabinaschool/service-worker.js",
-    "static/css/main.b814006c.chunk.css.map": "/sabinaschool/static/css/main.b814006c.chunk.css.map",
-    "static/js/2.2f3a3ea2.chunk.js.LICENSE.txt": "/sabinaschool/static/js/2.2f3a3ea2.chunk.js.LICENSE.txt",
+    "static/css/main.f9277198.chunk.css.map": "/sabinaschool/static/css/main.f9277198.chunk.css.map",
+    "static/js/2.ae268699.chunk.js.LICENSE.txt": "/sabinaschool/static/js/2.ae268699.chunk.js.LICENSE.txt",
     "static/media/1.jpg": "/sabinaschool/static/media/1.12293ea8.jpg",
     "static/media/2.jpg": "/sabinaschool/static/media/2.4bd74acd.jpg",
     "static/media/3.jpg": "/sabinaschool/static/media/3.e2aaccfb.jpg",
@@ -30,6 +30,7 @@
     "static/media/mujo_01.jpg": "/sabinaschool/static/media/mujo_01.f083284d.jpg",
     "static/media/mujo_02.jpg": "/sabinaschool/static/media/mujo_02.cc4ad19a.jpg",
     "static/media/mujo_03.jpg": "/sabinaschool/static/media/mujo_03.d198236d.jpg",
+    "static/media/musicunsplash.jpg": "/sabinaschool/static/media/musicunsplash.9dc465e7.jpg",
     "static/media/newdude.jpg": "/sabinaschool/static/media/newdude.5f408409.jpg",
     "static/media/old1.jpg": "/sabinaschool/static/media/old1.a11c78a7.jpg",
     "static/media/old11.jpg": "/sabinaschool/static/media/old11.7f721c00.jpg",
@@ -61,8 +62,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.bc402ea5.js",
-    "static/js/2.2f3a3ea2.chunk.js",
-    "static/css/main.b814006c.chunk.css",
-    "static/js/main.51069c7a.chunk.js"
+    "static/js/2.ae268699.chunk.js",
+    "static/css/main.f9277198.chunk.css",
+    "static/js/main.296a3944.chunk.js"
   ]
 }

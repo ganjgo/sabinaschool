@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "97a10dedfd01c945544b50519236d4c3",
+    "revision": "dfd46e43636da134d7c6997aa3f36361",
     "url": "/sabinaschool/index.html"
   },
   {
-    "revision": "b3088a0697f5e7c348d9",
-    "url": "/sabinaschool/static/css/main.b814006c.chunk.css"
+    "revision": "e9909f0ae6a247de9383",
+    "url": "/sabinaschool/static/css/main.f9277198.chunk.css"
   },
   {
-    "revision": "0beb8d7f799d2873d737",
-    "url": "/sabinaschool/static/js/2.2f3a3ea2.chunk.js"
+    "revision": "fecd4d9fca481debd2f8",
+    "url": "/sabinaschool/static/js/2.ae268699.chunk.js"
   },
   {
     "revision": "ff36efe99bbdc543e19fafd98fdef32c",
-    "url": "/sabinaschool/static/js/2.2f3a3ea2.chunk.js.LICENSE.txt"
+    "url": "/sabinaschool/static/js/2.ae268699.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b3088a0697f5e7c348d9",
-    "url": "/sabinaschool/static/js/main.51069c7a.chunk.js"
+    "revision": "e9909f0ae6a247de9383",
+    "url": "/sabinaschool/static/js/main.296a3944.chunk.js"
   },
   {
     "revision": "fe3e50a89ab0b88a30a0",
@@ -94,6 +94,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "d198236dcafab9a19a8d3dd4df664d74",
     "url": "/sabinaschool/static/media/mujo_03.d198236d.jpg"
+  },
+  {
+    "revision": "9dc465e79ae0d03caded8158f03c2659",
+    "url": "/sabinaschool/static/media/musicunsplash.9dc465e7.jpg"
   },
   {
     "revision": "5f40840958bf02da6285cf6eb341b11c",
